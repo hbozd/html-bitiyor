@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>iletişim</title>
+</head>
+<body>
+ <!--navbar start-->
+ <h2></h2>
+ <!--navbar end-->
+ <!--content start-->
+ <section>
+  <!--article start-->
+   <article>
+    <h2>iletişim</h2>
+    <img src="https://picsum.photos/id/937/600/200" alt="iletişimresim">
+    <ul>
+     <p>adres:</p>
+     <address>manavkuyu mh. <br>259 sk  <br> no:25<br>Bayraklı <br>İzmir</address>
+    
+     <p>telefon:</p>
+      <a href="tel:05058831633">0 505 883 26 33</a>
+     <p>mail:</p>
+      <a href="mailto:hbozdamli@gmail.com">hbozdanli@gmail.com</a>
+    </ul>
+   </article>
+  <!--article end-->
+ </section>
+  
+ <!--content end-->
+ <!--footer start-->
+ <!--footer end-->
+</body>
+</html>
