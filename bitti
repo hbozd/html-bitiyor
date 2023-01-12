@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>ISLAMIC GEOETRİC DESIGN</title>
+</head>
+<body>
+ <!--navbar start-->
+ <header>
+  <nav>
+   <ul>
+    <li>
+     <a href="index.html">Anasayfa</a>
+    </li>
+    <li><a href="aboutus.html">Hakkımızda</a></li>
+    <li><a href="contact.html">İletişim</a></li>
+   </ul>
+  </nav>
+
+ </header>
+ <!--navbar end-->
+
+<!--content start-->
+<!--section start-->
+<h2>yazı 1</h2>
+<img src="https://picsum.photos/id/237/600/300" alt="resim1">
+<article>
+ <ul>
+  <li>
+   <p>Lorem ipsum dolor sit amet.</p>
+  </li>
+  <li>
+   <p>Neque repellat corporis sequi nulla?</p>
+  </li>
+  <li>
+   <p>Beatae et quas tempora accusamus!</p>
+  </li>
+ </ul>
+ <p>Lorem ipsum dolor sit amet consectetur.</p>
+ <p>Quae deleniti placeat quod delectus atque!</p>
+ <p>Nemo distinctio possimus in optio dolore.</p>
+</article>
+<hr>
+
+<h2>yazı 2</h2>
+<img src="https://picsum.photos/id/257/600/300" alt="resim2">
+<article>
+ <ol>
+  <li>
+   <p>Lorem ipsum dolor sit amet.</p>
+  </li>
+  <li>
+   <p>Neque repellat corporis sequi nulla?</p>
+  </li>
+  <li>
+   <p>Beatae et quas tempora accusamus!</p>
+  </li>
+ </ol>
+ <p>Lorem ipsum dolor sit amet consectetur.</p>
+ <p>Quae deleniti placeat quod delectus atque!</p>
+ <p>Nemo distinctio possimus in optio dolore.</p>
+</article>
+<hr>
+
+<h2>yazı 3</h2>
+<img src="https://picsum.photos/id/239/600/300" alt="resim3">
+<article>
+ <ul>
+  <li>
+   <p>Lorem ipsum dolor sit amet.</p>
+  </li>
+  <li>
+   <p>Neque repellat corporis sequi nulla?</p>
+  </li>
+  <li>
+   <p>Beatae et quas tempora accusamus!</p>
+  </li>
+ </ul>
+ <p>Lorem ipsum dolor sit amet consectetur.</p>
+ <p>Quae deleniti placeat quod delectus atque!</p>
+ <p>Nemo distinctio possimus in optio dolore.</p>
+</article>
+<hr>
+
+
+<!--section end-->
+<!--content end-->
+
+<!--footer start-->
+<header>
+ <nav>
+  <ul>
+   <li>
+    <a href="index.html">Anasayfa</a>
+   </li>
+   <li><a href="aboutus.html">Hakkımızda</a></li>
+   <li><a href="contact.html">İletişim</a></li>
+  </ul>
+ </nav>
+
+</header>
+<!--footer end-->
+</body>
+</html>
