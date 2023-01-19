@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>islami geometri</title>
+ <link rel="stylesheet" href="css/islamigeometri.css">
+
+</head>
+<body>
+ 
+ <!--navbar start-->
+ <header>
+  <nav>
+   <ul>
+    <li><a href="index.html">Anasayfa</a></li>
+    <br>
+    <li><a href="aboutus.html">Hakkımızda</a></li>
+    <br>
+    <li><a href="contact.html">İletişim</a></li>
+   </ul>
+  </nav>
+
+ </header>
+ <!--navbar end-->
+
+<!--content start-->
+<!--section start-->
+<h1>islami geometri</h1>
+<img src="https://img.freepik.com/free-vector/flat-design-creative-arabesque-pattern_23-2149190708.jpg?w=200&t=st=1674121038~exp=1674121638~hmac=0cdd512ca308a79c82a50a8bdc947b5ab20b89e1d968b4d654ac0047d35d52c1" alt="resim1">
+<article>
+  <p class="textcolor">islam sanatında geometrik desenler denilince insanlar sadece dinle ilgili birşeyler sanıyorlar. Aksine sadece dini değil, hayatın her alanını kapsayan bir sanattan bahsedilir burada. Adında islam kelimesinin geçmesinde elbette dini mimaride kullanılmasının önemi yadsınamaz</p>
+<br>
+ <p>Desenler çok çeşitli de olsa dünyanın her yerinden gelen farklı eserler incelendiğinde karşımıza aynı kaynaktan çıktığı çok belli olan bir yapı çıkıyor.</p>
+ <br>
+ <img src="https://img.freepik.com/free-vector/gradient-golden-arabic-pattern_23-2148914195.jpg?size=300&ext=jpg&ga=GA1.1.1967822159.1674120997" alt="">
+ <br>
+ <p>Bazı desenler ise her ne kadar geometrik görünmese de altyapı olarak belli geometrik yapı üzerine inşa edilmiştir.</p>
+ <img src="https://img.freepik.com/free-vector/floral-seamless-pattern-element-arabian-style-arabesque-pattern-eastern-ethnic-ornament_1217-1152.jpg?size=300&ext=jpg&ga=GA1.1.1967822159.1674120997" alt="">
+</article>
+<hr>
+
+<h2>yazı 2</h2>
+<img src="https://picsum.photos/id/257/600/300" alt="resim2">
+<article>
+ <ol>
+  <li>
+   <p>Lorem ipsum dolor sit amet.</p>
+  </li>
+  <li>
+   <p>Neque repellat corporis sequi nulla?</p>
+  </li>
+  <li>
+   <p>Beatae et quas tempora accusamus!</p>
+  </li>
+ </ol>
+ <p>Lorem ipsum dolor sit amet consectetur.</p>
+ <p>Quae deleniti placeat quod delectus atque!</p>
+ <p>Nemo distinctio possimus in optio dolore.</p>
+</article>
+<hr>
+
+<h2>yazı 3</h2>
+<img src="https://picsum.photos/id/239/600/300" alt="resim3">
+<article>
+ <ul>
+  <li>
+   <p>Lorem ipsum dolor sit amet.</p>
+  </li>
+  <li>
+   <p>Neque repellat corporis sequi nulla?</p>
+  </li>
+  <li>
+   <p>Beatae et quas tempora accusamus!</p>
+  </li>
+ </ul>
+ <p>Lorem ipsum dolor sit amet consectetur.</p>
+ <p>Quae deleniti placeat quod delectus atque!</p>
+ <p>Nemo distinctio possimus in optio dolore.</p>
+</article>
+<hr>
+
+
+<!--section end-->
+<!--content end-->
+
+<!--footer start-->
+<header>
+ <nav>
+  <ul>
+   <li>
+    <a href="index.html">Anasayfa</a>
+   </li>
+   <li><a href="aboutus.html">Hakkımızda</a></li>
+   <li><a href="contact.html">İletişim</a></li>
+  </ul>
+ </nav>
+
+</header>
+<!--footer end-->
+ 
+</body>
+</html>
